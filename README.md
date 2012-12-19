@@ -10,7 +10,7 @@ such as node-paperboy and antinode.
 
 npm for fixWriteHead
 ```
-npm install https://github.com/daxxog/node-static/tarball/fixWriteHead
+npm install https://github.com/daxxog/node-static/tarball/fwh
 ```
 
 Synopsis
