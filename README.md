@@ -8,6 +8,11 @@ node-static understands and supports *conditional GET* and *HEAD* requests.
 node-static was inspired by some of the other static-file serving modules out there,
 such as node-paperboy and antinode.
 
+npm for fixWriteHead
+```
+npm install https://github.com/daxxog/node-static/tarball/fixWriteHead
+```
+
 Synopsis
 --------
 
